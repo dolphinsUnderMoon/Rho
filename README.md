@@ -4,4 +4,4 @@ The generate_data.py generates the X and Y's training, testing data which obey a
 
 The mlp.py builds the MLP model in Keras and trains it. The trained model stored in directory "model".
 
-The test.py just inference a random selection from testing dataset.
+The test.py just inferences a random selection from testing dataset.
